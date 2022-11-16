@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="BRAST search co.,ltd.">
+<meta name="GENERATOR" content="JustSystems Homepage Builder Version 22.0.0.1 Trial for Windows">
+<title>さがしマート設定</title>
+<link rel="shortcut icon" href="c:/users/yuga/Pictures/sagashi.png" />
+</head>
+<body>
+<style type="text/css">
+.btn {
+    border-radius: 5px;
+    background-color: blue;
+    padding: 5px;
+    text-decoration: none;
+    color: white;
+    }
+#text-button {
+    display: block;
+    cursor: pointer;
+    width: 160px;
+    text-align: center;
+    border: 1px solid #232323;
+    padding: 10px;
+    }
+</style>
+<a href="index.html" target="_blank">
+<img src="/Users/yuga/Pictures/sagashi-home.png" alt="さがしマートTop" width="210" height="33" target="_blank" /></a>
+<hr>
+<input type="button" onclick="location.href='index.html'" value="戻る">
+<nav>
+<ul>
+<li><a href="search.html">検索エンジン</a></li>
+<li><a href="language.html">言語</a></li>
+<li><a href="service.html">Internetサービス</a></li>
+<li><a href="help.html">さがしマートについて</a></li>
+</ul>
+</nav>
+<p>バージョン:1.11.069</p>
+<div id="text-button" onclick="clickDisplayAlert()">更新を確認</div>
+<script>
+    function clickDisplayAlert() {
+        alert("新しい更新プログラムが見つかりました");
+    }
+</script>
+<h4>内容</h4>
+<p>Ver 1.11.069　バグの修正(ASY-141)</p>
+<a href="asdon.html">履歴</a>
+</body>
+</html>
