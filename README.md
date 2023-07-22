@@ -6,4 +6,4 @@ JEXCO高速はマイクラで高速作ったり、他社が困っているのを
 メインやWikiや非公式のリンクは左下のリンクを見てください(投げやり)
 
 # リクエスト
-https://peing.net/ja/jexco_highway でリクエストやあと諸々やっているよーーー
+https://peing.net/ja/JEXCO_main でリクエストやあと諸々やっているよーーー
